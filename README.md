@@ -2,6 +2,8 @@
 
 ## Blueprint
 
+<img src="blueprint.png" alt="blueprintt" width="600px">
+
 Blueprint is an experimental spec + toolchain to define the organization, structure, and layout of docs. You can use blueprint to scaffold, migrate, analyze, and validate documentation. 
 
 Use blueprint to create **schemas** that describe the structure of common doc types like reference docs, how tos, discussions, and tutorials. 
